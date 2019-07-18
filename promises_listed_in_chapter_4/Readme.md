@@ -1,4 +1,4 @@
-promises listed in chapter 4
+<u><b>promises listed in chapter 4</b></u>
 
 CUV = Chinese Union Version [public domain]
 CSB = Christian Standard Bible
