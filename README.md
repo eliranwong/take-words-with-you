@@ -1,4 +1,4 @@
-# take-words-with-you
+# take-words-with-you (author: Tim Kerr)
 A Manual for Intercession
 (version 5.3)
 
