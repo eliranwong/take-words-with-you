@@ -11,8 +11,8 @@ Used and distributed with permission given by Tim Kerr
 Comprehensive format is available for purchase at http://www.takewordswithyou.com
 
 Abbreviations:
-CUV = Chinese Union Version (Traditional Chinese)
-CUVs = Chinese Union Version (Simplified Chinese)
-KJV = King James Version
-NET = New English Translation (2nd edition)
-WEB = World English Bible
+- CUV = Chinese Union Version (Traditional Chinese)
+- CUVs = Chinese Union Version (Simplified Chinese)
+- KJV = King James Version
+- NET = New English Translation (2nd edition)
+- WEB = World English Bible
