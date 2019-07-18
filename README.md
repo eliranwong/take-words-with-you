@@ -7,4 +7,5 @@ In this repository, you may find:
 * development of Chinese version (all bible verses are now in place, translation will be updated gradually).
 
 Used and distributed with permission given by Tim Kerr
+
 Comprehensive format is available for purchase at http://www.takewordswithyou.com
