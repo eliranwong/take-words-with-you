@@ -1,0 +1,160 @@
+1	0.0	Book Cover
+4	0.1.0	Why This Manual Was Written
+7	0.2.0	A Proposed Method for Prayer
+9	0.3.0	The Prayer Method at Work
+10	0.4.0	An Example of Praying About The Struggle With Sin
+11	0.4.{1}	Praise God
+14	0.4.{2}	Confess Sin
+17	0.4.{3}	Pray the Promises
+20	0.4.{4}	Pray Scripture Prayers
+22	0.4.{5}	Pray Faith Affirmations
+24	0.5.0	Why Scripture Promises Are So Important for Our Prayers
+37	0.6.0	Four Important Truths
+38	0.6.1	Promises will only and always mean what they mean in their context and with the intent with which they were written.
+40	0.6.2	Promises sometimes have a multiple fulfillment in the past, present and future.
+46	0.6.3	Promises that are conditional always require fulfillment of the condition before the promise is granted.
+49	0.6.4	Promises that are granted are sometimes delayed for many years.
+52	0.7.0	Living Before the Face of God
+55	0.7.{6}.1	Presenting Ourselves to God
+61	0.7.{6}.2	Scriptures on Presenting Ourselves to God
+83	0.7.{7}.1	Accepting Everything from God
+91	0.7.{7}.2	Scriptures on Accepting Everything From God
+110	1.0	Using Scripture to Prepare to Pray
+111	1.1.0	Developing the Motivation for Prayer: The Glory of God
+121	1.1.{1}	Praying for God’s Honor and Glory
+139	1.1.{5}	Faith Affirmations
+144	1.2.0	Building Faith By Meditation on God’s Faithfulness
+171	1.2.{3}	Promises to Those Who Trust God
+221	1.2.{4}	Prayers for Faith
+225	1.2.{5}	Faith Affirmations
+236	2.0	Using Scripture to Praise God
+237	2.1.0	Beholding the Glory of Christ
+304	2.2.0	Beholding the Greatness of God
+370	2.2.{1}.1	Praising Our Great God
+419	2.2.{1}.2	Giving Thanks to Our Great God
+439	2.2.{4}	Scripture Prayers
+444	2.2.{5}	Faith Affirmations
+460	3.0	Using Scripture to Confess Sin
+461	3.0.{3}	Promises of Forgiveness
+478	3.0.{4}.0	Prayers Seeking Forgiveness
+479	3.0.{4}.1	Corporate Confession
+499	3.0.{4}.2	Personal Confession
+506	3.0.{5}	Faith Affirmations
+519	4.0	Using Scripture to Make Requests: Promises and Scripture Prayers
+520	4.1.{3}	Promises for Help with Prayer
+525	4.1.{4}	Prayer for God’s Help to Pray
+527	4.1.{5}	Faith Affirmations
+532	4.2.{3}	Promises to Answer Prayer
+569	4.2.{4}	Prayers for Answered Prayer
+581	4.2.{5}	Faith Affirmations
+589	4.3.{3}	Promises of God’s Intention to Save Us
+646	4.3.{4}	Prayers to God for Salvation
+656	4.3.{5}	Faith Affirmations
+660	4.4.{3}	Promises of God’s Intention to Save the Nations
+675	4.4.{4}.1	Prayers Asking God For the Gospel to Advance
+684	4.4.{4}.2	How to Pray So that People Will Be Saved
+690	4.4.{5}	Faith Affirmations
+703	4.5.{3}	Promises of God’s Love for His People
+737	4.5.{4}	Prayers Regarding God’s Love
+758	4.5.{5}	Faith Affirmations
+779	4.6.{3}	Promises to the Church
+850	4.6.{4}	Prayers For the Church (see also under Prayer Blessings)
+860	4.6.{5}	Faith Affirmations
+867	4.7.{3}	Promises to Shepherds
+878	4.7.{4}	Prayers For Leaders
+883	4.7.{5}	Faith Affirmations
+888	4.8.{3}	Promises on the Power of God’s Word
+905	4.8.{4}	Prayers Regarding God’s Word
+930	4.8.{5}	Faith Affirmations
+938	4.9.{3}	Promises to Send Revival
+963	4.9.{4}	Prayers for Revival
+976	4.9.{5}	Faith Affirmations
+984	4.10.{3}	Promises of The Holy Spirit’s Powerful Ministry
+1017	4.10.{4}	Prayers for God to Give His Spirit
+1037	4.10.{5}	Faith Affirmations
+1042	4.11.{3}	Promises that God Will Make Us His Possession
+1050	4.11.{4}	Prayers in Light of God’s Complete Ownership of Us
+1070	4.11.{5}	Faith Affirmations
+1081	4.12.{3}.1	The meaning of the promise “God with us”:
+1099	4.12.{3}.2	Promises that God Will Be “With Us”
+1117	4.12.{4}	Prayers Seeking Success and God’s Presence
+1130	4.12.{5}	Faith Affirmations
+1138	4.13.{3}	Promises that God Will Draw Near
+1147	4.13.{4}	Prayers Seeking God’s Nearness
+1153	4.13.{5}	Faith Affirmations
+1160	4.14.{3}	Promises that God Will Manifest His Favor
+1177	4.14.{4}	Prayers Seeking God’s Favor
+1184	4.14.{5}	Faith Affirmations
+1192	4.15.{3}	Promises to Believers Struggling with Sin
+1209	4.15.{4}	Prayers for Sanctifying Grace
+1233	4.15.{5}	Faith Affirmations
+1240	4.16.{3}	Promises to Give His People Strength
+1268	4.16.{4}	Prayers for Strength
+1276	4.16.{5}	Faith Affirmations
+1284	4.17.{3}	Promises to Give Light in the Darkness
+1305	4.17.{4}	Prayers When in Darkness
+1326	4.17.{5}	Faith Affirmations
+1334	4.18.{3}	Promises to Those Who are Afflicted
+1354	4.18.{4}	Prayers When Troubled and Afflicted
+1377	4.18.{5}	Faith Affirmations
+1387	4.19.{3}	Promises to Those Who are Anxious and Afraid
+1402	4.19.{4}	Prayers for Peace
+1411	4.19.{5}	Faith Affirmations
+1425	4.20.{3}	Promises Regarding Wisdom
+1441	4.20.{4}	Praying for Wisdom
+1449	4.20.{5}	Faith Affirmations
+1452	4.21.{3}	Promises to Give Guidance
+1462	4.21.{4}	Praying for Guidance
+1473	4.21.{5}	Faith Affirmations
+1478	4.22.{3}	Promises to Give Needed Provision
+1489	4.22.{4}	Prayers for Provision
+1492	4.22.{5}	Faith Affirmations
+1498	4.23.{3}	Promises to Give Needed Protection
+1513	4.23.{4}	Prayers for Protection
+1518	4.23.{5}	Faith Affirmations
+1526	4.24.{3}	Promises that God is Fighting for His People
+1546	4.24.{4}	Prayer in the Presence of Our Enemies
+1583	4.24.{5}	Faith Affirmations
+1597	4.25.{3}	Promises on the Power of the Cross Over Satan
+1614	4.25.{4}	Praying for God’s Opposition to Satanic and Demonic Activity
+1629	4.25.{5}	Faith Affirmations
+1633	4.26.{3}	Promises to Save Our Children and Future Generations
+1651	4.26.{4}	Praying for Our Children
+1663	4.26.{5}	Faith Affirmations
+1678	4.27.{3}	Promises to Those Who Seek God
+1703	4.27.{4}	Seeking After God in Prayer
+1713	4.27.{5}	Faith Affirmations
+1718	4.28.{3}	Promises to Those Who Fear God
+1737	4.28.{4}	Prayers Regarding the Fear of God
+1740	4.28.{5}	Faith Affirmations
+1748	4.29.{3}	Promises to the Humble
+1759	4.29.{4}	Praying for and with Humility
+1767	4.29.{5}	Faith Affirmations
+1778	4.30.{3}	Promises to the Generous
+1791	4.30.{4}	Praying about Our Giving
+1796	4.30.{5}	Faith Affirmations
+1801	4.31.{3}	Promises to the Obedient
+1832	4.31.{4}	Praying for Obedience and Its Accompanying Blessings
+1861	4.31.{5}	Faith Affirmations
+1872	4.32.{3}	Promises to Those Facing Death
+1891	4.32.{4}	Prayers of Those Facing Death
+1901	4.32.{5}	Faith Affirmations
+1914	5.0	Using Scripture for Prayer Blessings (Benedictions)
+1950	6.0	Appendices
+1951	6.1.0	Praying with Faith
+1958	6.1.1	The person of Christ generates faith.
+1963	6.1.2	The cross of Christ generates faith.
+1966	6.1.3	The promises of Scripture generate faith
+1971	6.2.0	Faith and the Prayerful Use of Promises
+2009	6.3.0	Examples of How to Use the Prayer Method
+2010	6.3.1	Praying When Feeling Discouraged
+2011	6.3.2	Praying for a Lost Child
+2012	6.3.3	Praying for Wisdom for Decisions and for Solving Problems
+2013	6.3.4	Praying for Forgiveness of Sins
+2014	6.3.5	Praying for Protection from Enemies
+2015	6.3.6	Praying for a Church Meeting
+2016	6.3.7	Praying for Your Pastor
+2017	6.3.8	Praying for the Spread of the Gospel
+2018	6.3.9	Praying for Revival
+2019	6.4.0	Prayer Templates for Use in Intercession
+2020	6.5.0	Scripture Index
