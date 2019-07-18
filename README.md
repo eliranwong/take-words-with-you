@@ -3,7 +3,7 @@ A Manual for Intercession
 (version 5.3)
 
 In this repository, you may find:
-* export of all verses, which are quoted in the book, in different versions.  (original bible version used in the book is ESV, 2011)
+* export of all verses, which are quoted in the book, in different versions.  (ESV [2011] is the original bible version used in the book.)
 * development of Chinese version (all bible verses are now in place, translation will be updated gradually).
 * a database file on bible promises integrated with UniqueBible.app [https://github.com/eliranwong/UniqueBible] (upcoming)
 
